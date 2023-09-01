@@ -1,3 +1,3 @@
-Je kunt audiobestanden van je computer toevoegen aan je Unity project, door ze te slepen van je bestandsverkenner naar het projectvenster
+You can add audio files from your computer into your Unity project by dragging and dropping them from your file explorer into the Project window.
 
-![mp3 bestand dat van de bestandsverkenner naar het project wordt gesleept](images/import-sound.gif)
+![mp3 file being dragged from the file explorer into the project.](images/import-sound.gif)
